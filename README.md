@@ -1,5 +1,5 @@
 # Kill-all-Docker
-wanna tear down all your of your docker instance?
+wanna tear down all your of your docker instances?
 
 (idk if it works with pure bash but works with zsh )
 
